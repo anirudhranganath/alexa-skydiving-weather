@@ -1,0 +1,8 @@
+GetSkydivingWeather What is the skydiving weather
+GetSkydivingWeather How is the weather for skydiving
+GetSkydivingWeather Get me the skydiving weather
+
+GetSkydivingWeatherAt How is the skydiving weather at {Place}
+GetSkydivingWeatherAt What is the skydiving weather at {Place}
+GetSkydivingWeatherAt How is the weather for skydiving at {Place}
+GetSkydivingWeatherAt How is the skydiving weather at {Place}
